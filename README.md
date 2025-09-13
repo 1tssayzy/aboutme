@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Whitty](https://github.com/1tssayzy/Whitty.git)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js**  **TypeScrypt.js**
 
 - 👯 I’m looking for Frontend for [Whitty](https://github.com/1tssayzy/Whitty.git)
 
