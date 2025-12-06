@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanya</h1>
 <h3 align="center">A backend developer from Ukraine</h3>
+<h3 align="center">Study in National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute</h3>
 
 - 🔭 I’m currently working on [Whitty](https://github.com/1tssayzy/Whitty.git)
 
